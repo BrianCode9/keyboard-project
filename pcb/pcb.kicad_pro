@@ -448,7 +448,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "local.",
+      "local"
+    ]
   },
   "meta": {
     "filename": "pcb.kicad_pro",
@@ -609,6 +612,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "e1222693-dcfd-476e-8f65-9fae5310e84d",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }
