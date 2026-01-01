@@ -6694,7 +6694,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.5U"
 			(at 57.15 166.37 0)
 			(effects
 				(font
@@ -6762,7 +6762,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 285.75 166.37 0)
 			(effects
 				(font
@@ -6830,7 +6830,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-6.25U"
 			(at 171.45 166.37 0)
 			(effects
 				(font
@@ -6898,7 +6898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 152.4 97.79 0)
 			(effects
 				(font
@@ -7314,7 +7314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 323.85 166.37 0)
 			(effects
 				(font
@@ -7469,7 +7469,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 190.5 74.93 0)
 			(effects
 				(font
@@ -7624,7 +7624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 171.45 143.51 0)
 			(effects
 				(font
@@ -7692,7 +7692,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 323.85 120.65 0)
 			(effects
 				(font
@@ -7760,7 +7760,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 114.3 143.51 0)
 			(effects
 				(font
@@ -7915,7 +7915,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 114.3 74.93 0)
 			(effects
 				(font
@@ -7983,7 +7983,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 190.5 97.79 0)
 			(effects
 				(font
@@ -8051,7 +8051,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.25U"
 			(at 95.25 166.37 0)
 			(effects
 				(font
@@ -8119,7 +8119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 228.6 74.93 0)
 			(effects
 				(font
@@ -8187,7 +8187,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 266.7 166.37 0)
 			(effects
 				(font
@@ -8255,7 +8255,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 209.55 143.51 0)
 			(effects
 				(font
@@ -8584,7 +8584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 152.4 74.93 0)
 			(effects
 				(font
@@ -8739,7 +8739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 323.85 97.79 0)
 			(effects
 				(font
@@ -8807,7 +8807,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 171.45 120.65 0)
 			(effects
 				(font
@@ -8875,7 +8875,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 266.7 74.93 0)
 			(effects
 				(font
@@ -9117,7 +9117,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 152.4 120.65 0)
 			(effects
 				(font
@@ -9272,7 +9272,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 114.3 120.65 0)
 			(effects
 				(font
@@ -9514,7 +9514,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 304.8 143.51 0)
 			(effects
 				(font
@@ -9582,7 +9582,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 190.5 120.65 0)
 			(effects
 				(font
@@ -9737,7 +9737,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 152.4 143.51 0)
 			(effects
 				(font
@@ -9892,7 +9892,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 133.35 97.79 0)
 			(effects
 				(font
@@ -10134,7 +10134,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 266.7 120.65 0)
 			(effects
 				(font
@@ -10289,7 +10289,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 171.45 97.79 0)
 			(effects
 				(font
@@ -10618,7 +10618,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 133.35 74.93 0)
 			(effects
 				(font
@@ -10686,7 +10686,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 304.8 166.37 0)
 			(effects
 				(font
@@ -10841,7 +10841,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 285.75 120.65 0)
 			(effects
 				(font
@@ -10996,7 +10996,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 247.65 97.79 0)
 			(effects
 				(font
@@ -11064,7 +11064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 114.3 97.79 0)
 			(effects
 				(font
@@ -11132,7 +11132,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 285.75 97.79 0)
 			(effects
 				(font
@@ -11200,7 +11200,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 133.35 120.65 0)
 			(effects
 				(font
@@ -11268,7 +11268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 190.5 143.51 0)
 			(effects
 				(font
@@ -11597,7 +11597,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 133.35 143.51 0)
 			(effects
 				(font
@@ -11665,7 +11665,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-2.25U"
 			(at 304.8 120.65 0)
 			(effects
 				(font
@@ -11733,7 +11733,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.5U"
 			(at 304.8 97.79 0)
 			(effects
 				(font
@@ -12149,7 +12149,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 95.25 97.79 0)
 			(effects
 				(font
@@ -12304,7 +12304,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.75U"
 			(at 57.15 120.65 0)
 			(effects
 				(font
@@ -12372,7 +12372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 323.85 74.93 0)
 			(effects
 				(font
@@ -12440,7 +12440,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 285.75 74.93 0)
 			(effects
 				(font
@@ -12682,7 +12682,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.25U"
 			(at 247.65 166.37 0)
 			(effects
 				(font
@@ -12837,7 +12837,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.75U"
 			(at 285.75 143.51 0)
 			(effects
 				(font
@@ -12905,7 +12905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 171.45 74.93 0)
 			(effects
 				(font
@@ -13060,7 +13060,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.5U"
 			(at 76.2 166.37 0)
 			(effects
 				(font
@@ -13128,7 +13128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 76.2 143.51 0)
 			(effects
 				(font
@@ -13631,7 +13631,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 209.55 74.93 0)
 			(effects
 				(font
@@ -13699,7 +13699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-2.25U"
 			(at 57.15 143.51 0)
 			(effects
 				(font
@@ -13854,7 +13854,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-2U"
 			(at 304.8 74.93 0)
 			(effects
 				(font
@@ -13922,7 +13922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 247.65 74.93 0)
 			(effects
 				(font
@@ -14077,7 +14077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1.5U"
 			(at 57.15 97.79 0)
 			(effects
 				(font
@@ -14145,7 +14145,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 76.2 120.65 0)
 			(effects
 				(font
@@ -14909,7 +14909,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 323.85 143.51 0)
 			(effects
 				(font
@@ -14977,7 +14977,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 266.7 97.79 0)
 			(effects
 				(font
@@ -15132,7 +15132,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 247.65 143.51 0)
 			(effects
 				(font
@@ -15200,7 +15200,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 95.25 120.65 0)
 			(effects
 				(font
@@ -15355,7 +15355,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 247.65 120.65 0)
 			(effects
 				(font
@@ -15684,7 +15684,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 209.55 97.79 0)
 			(effects
 				(font
@@ -16013,7 +16013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 228.6 143.51 0)
 			(effects
 				(font
@@ -16081,7 +16081,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 228.6 97.79 0)
 			(effects
 				(font
@@ -16149,7 +16149,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 228.6 120.65 0)
 			(effects
 				(font
@@ -16479,7 +16479,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 76.2 74.93 0)
 			(effects
 				(font
@@ -16547,7 +16547,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 95.25 143.51 0)
 			(effects
 				(font
@@ -16615,7 +16615,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 95.25 74.93 0)
 			(effects
 				(font
@@ -16683,7 +16683,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 209.55 120.65 0)
 			(effects
 				(font
@@ -16838,7 +16838,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 57.15 74.93 0)
 			(effects
 				(font
@@ -16906,7 +16906,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 76.2 97.79 0)
 			(effects
 				(font
