@@ -3021,6 +3021,12 @@
 		(uuid "039e34ad-480e-4005-80c1-51bcc44c7ebf")
 	)
 	(junction
+		(at 92.71 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "111ca664-cfe7-480a-9b4a-08486208639d")
+	)
+	(junction
 		(at 154.305 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3055,6 +3061,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "478c2da1-9ff9-4e9a-a8ce-76fa10979e04")
+	)
+	(junction
+		(at 92.71 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dc57821-e560-4986-9646-f683ed326d67")
 	)
 	(junction
 		(at 154.305 50.8)
@@ -3360,6 +3372,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 175.26) (xy 92.71 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ddac61d-f521-4a50-87ac-69f24600569b")
+	)
+	(wire
+		(pts
 			(xy 105.41 182.88) (xy 105.41 185.42)
 		)
 		(stroke
@@ -3440,7 +3462,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 175.26) (xy 99.06 175.26)
+			(xy 86.36 175.26) (xy 92.71 175.26)
 		)
 		(stroke
 			(width 0)
@@ -3540,6 +3562,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 185.42) (xy 99.06 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "521bcf5b-a7d8-4dc0-bb0d-f174fd2f8de0")
+	)
+	(wire
+		(pts
 			(xy 40.64 115.57) (xy 43.18 115.57)
 		)
 		(stroke
@@ -3560,6 +3592,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 175.26) (xy 99.06 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a39ae3-af09-403b-972a-5b8308d391d8")
+	)
+	(wire
+		(pts
 			(xy 43.18 21.59) (xy 43.18 24.13)
 		)
 		(stroke
@@ -3567,6 +3609,16 @@
 			(type default)
 		)
 		(uuid "6c69f7db-1987-4808-a320-7cf4975440b7")
+	)
+	(wire
+		(pts
+			(xy 92.71 185.42) (xy 92.71 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c6ce011-7276-4e34-a562-cbb2d421f3ca")
 	)
 	(wire
 		(pts
@@ -3670,7 +3722,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 173.99) (xy 92.71 177.8)
+			(xy 92.71 173.99) (xy 92.71 175.26)
 		)
 		(stroke
 			(width 0)
@@ -3810,7 +3862,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 185.42) (xy 99.06 185.42)
+			(xy 86.36 185.42) (xy 92.71 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4130,7 +4182,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 182.88) (xy 92.71 186.69)
+			(xy 92.71 182.88) (xy 92.71 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4616,7 +4668,7 @@
 			)
 		)
 	)
-	(global_label "col11"
+	(global_label "col12"
 		(shape input)
 		(at 58.42 72.39 0)
 		(fields_autoplaced yes)
@@ -4834,7 +4886,7 @@
 			)
 		)
 	)
-	(global_label "col12"
+	(global_label "col11"
 		(shape input)
 		(at 58.42 74.93 0)
 		(fields_autoplaced yes)
@@ -5298,7 +5350,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "10u"
 			(at 107.95 181.6162 0)
 			(effects
 				(font
