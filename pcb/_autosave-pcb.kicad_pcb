@@ -16049,9 +16049,9 @@
 		(uuid "008fcfe4-8ba3-4d6c-8c43-caa6a2f0b9b5")
 		(at 215.9 93.6625 180)
 		(property "Reference" "U1"
-			(at 3.175 0 0)
+			(at 3.7625 0 0)
 			(layer "B.SilkS")
-			(uuid "fc333a99-dcc0-40b4-905a-b9089fe8f0e1")
+			(uuid "f4ec86d2-2236-4811-8146-fd2cc9860e51")
 			(effects
 				(font
 					(size 1 1)
@@ -16063,7 +16063,7 @@
 		(property "Value" "PRTR5V0U2X"
 			(at 0 2.38125 180)
 			(layer "B.Fab")
-			(uuid "d5c6709a-b266-4b83-a5b9-43b2eea13f40")
+			(uuid "2a8435f3-d82b-4231-a710-77df88d506e5")
 			(effects
 				(font
 					(size 1 1)
@@ -16076,7 +16076,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c9cd5414-3b96-43ac-843f-1f8f817359e7")
+			(uuid "60185391-9fa5-4f98-a59b-0efbcfda0ba8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16089,7 +16089,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d236e9e0-97f7-4225-8008-2d628133e127")
+			(uuid "798a8139-8c82-4ebc-a8e7-b6592b14f0c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18544,6 +18544,17 @@
 			(uuid "2a4880a3-1eb5-4cb0-9aae-8eb32640ba9d")
 		)
 		(embedded_fonts no)
+		(model "C:/Program Files/KiCad/9.0/lib/Type-C.pretty/HRO  TYPE-C-31-M-12.step"
+			(offset
+				(xyz -4.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
